@@ -19,5 +19,7 @@ public class ArraysTeste {
             }
             System.out.println("");
         }
+
+        System.out.println("Fim teste");
     }
 }
